@@ -2,7 +2,11 @@
 name = "paleta-rs"
 version = "0.1.0"
 authors = ["Luis Argumedo <huicho.argumedo@gmail.com>"]
+description = "Top color palettes from Colour Lovers"
+repository = "https://github.com/wichops/paleta-rs"
 edition = "2021"
+readme = "README.md"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
